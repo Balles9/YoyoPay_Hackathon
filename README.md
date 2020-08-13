@@ -1,4 +1,4 @@
-# YoyoPay_Hackathon - Hackathon 
+# YoyoPay for Hackathon 
 Yoyo Pay was made in collaboration with Luis Rizo, Yong Zhou, Lin Wei-Cheng, Yiu Chung Yau.
 
 # Inspiration
